@@ -1,7 +1,8 @@
 # 3D-Flip-Portfolio-Card
 
 ![3D Portfolio card screenshot](https://github.com/khushis28/3D-Flip-Portfolio-Card/assets/131535612/a35f9f55-3d31-4147-8f65-0b5bc3a816a6)
-![3D Portfolio card screenshot-2](https://github.com/khushis28/3D-Flip-Portfolio-Card/assets/131535612/80cefb1e-390b-47f3-bf02-99052b683a9c)
+![image](https://github.com/khushis28/3D-Flip-Portfolio-Card/assets/131535612/e5feee28-64c8-411e-a393-40106e042aca)
+
 
 This project is a simple implementation of a 3D flip portfolio card using HTML and CSS. It allows you to showcase your portfolio items including social handles in an interactive way.
 
